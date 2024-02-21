@@ -36,4 +36,4 @@ The script will then generate the `dataset_info.html` file containing the datase
 
 ## Additional Features
 
-    Microdata Integration: The HTML output includes microdata annotations, making the content more machine-readable. Microdata attributes are added to the HTML tables, allowing search engines and other applications to better understand the structured data.
+Microdata Integration: The HTML output includes microdata annotations, making the content more machine-readable. Microdata attributes are added to the HTML tables, allowing search engines and other applications to better understand the structured data.
